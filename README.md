@@ -27,7 +27,5 @@ Nessa seção, é possível consultar a base de dados e realizar o download para
 --DADOS E TABELAS--
 
 Os dados são consumidos a partir de planilhas em Excel.
-Além disso, há um script para criar duas tabelas dentro do SQL Server.
-
 
 Se precisar de mais informações ou tiver outras dúvidas, estou à disposição! 😊🚚
