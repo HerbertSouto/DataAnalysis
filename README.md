@@ -11,6 +11,7 @@ Os pacotes podem ter três tipos de status:
 Delivering (Em rota): O pacote está em trânsito para a entrega.
 Delivered (Entregue): O pacote foi entregue com sucesso.
 OnHold (Em espera): Alguma ocorrência registrada impediu a entrega do produto (por exemplo, endereço incorreto, cliente ausente, etc.).
+Para estes casos também criei uma tabela chamada 'Justificativas' onde análisei o que seria de nossa responsabilidade ou da responsabilidade do cliente.
 
 Indicadores:
 Nessa página, você pode acompanhar os números ao longo do tempo.
