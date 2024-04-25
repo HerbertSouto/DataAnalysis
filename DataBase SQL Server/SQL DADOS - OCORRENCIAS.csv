@@ -1,0 +1,63 @@
+OnHoldReason;Situação
+Delivered-Normal;Ok
+Delivering-Normal;Não Ok
+OnHold-App/Internet failure;Ok
+Delivered-Address cannot be found;Ok
+Delivered-Buyer not at home;Ok
+Delivered-Rejected By User;Ok
+Delivered-Out of the route;Ok
+Delivering-Out of the route;Ok
+OnHold-Out of the route;Ok
+OnHold-Buyer not at home;Ok
+Delivered-Risky area of delivery;Ok
+OnHold-Address cannot be found;Não Ok
+Delivering-Address cannot be found;Não Ok
+OnHold-Closed Commerce;Ok
+OnHold-Rejected By User;Ok
+OnHold-Risky area of delivery;Ok
+OnHold-Robbery/Assault Attempt;Ok
+Delivering-Buyer not at home;Não Ok
+Delivering-Driver has insufficient time;Não Ok
+Delivering-Closed Commerce;Não Ok
+Delivered-Closed Commerce;Ok
+Delivered-Driver has insufficient time;Ok
+OnHold-Driver has insufficient time;Não Ok
+Delivered-App/Internet failure;Ok
+Delivered-Address not visited;Ok
+OnHold-Address not visited;Não Ok
+Delivered-Item Lost;Ok
+Delivered-Disaster;Ok
+Delivered-Theft;Ok
+OnHold-Normal;Não Ok
+Delivered-Customer changed address;Ok
+Delivering-App/Internet failure;Não Ok
+OnHold-Customer changed address;Ok
+Delivering-Heavy rain;Não Ok
+Delivering-Item Lost;Não Ok
+Delivered-Driver gave up the route;Ok
+Delivering-Disaster;Ok
+Delivering-Mechanical Problems;Não Ok
+Delivering-Address not visited;Não Ok
+Delivering-Driver gave up the route;Não Ok
+Delivered-Mechanical Problems;Ok
+Delivering-Risky area of delivery;Não Ok
+Delivered-Label changed;Ok
+Delivering-Robbery/Assault Attempt;Ok
+Delivered-Robbery/Assault Attempt;Ok
+Delivering-Label changed;Não Ok
+Delivering-Customer changed address;Ok
+LMHub_Received-App/Internet failure;Ok
+OnHold-Item Lost;Não Ok
+Delivering-Theft;Ok
+Delivering-Rejected By User;Ok
+LMHub_Received-Normal;Ok
+LMHub_Received-Buyer not at home;Ok
+LMHub_Received-Risky area of delivery;Ok
+LMHub_Received-Address cannot be found;Não Ok
+OnHold-Label changed;Ok
+OnHold-Damaged Item;Não Ok
+OnHold-Mechanical Problems;Não Ok
+Delivered-Heavy rain;Ok
+OnHold-Heavy rain;Não Ok
+Delivering-Damaged Item;Não Ok
+Delivered-Damaged Item;Não Ok
