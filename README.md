@@ -1,6 +1,3 @@
-# Transporte Diário
-Projeto criado para acompanhar a performance diária de uma transportadora.
-
 --INTRUÇÕES DO DASHBOARD--
 
 Progresso de Entregas:
