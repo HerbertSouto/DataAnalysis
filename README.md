@@ -1,5 +1,7 @@
 --INTRUÇÕES DO DASHBOARD--
 
+IMPORTANTE - NÃO ESQUEÇA DE ALTERAR A FONTE DE DADOS!
+
 Progresso de Entregas:
 Essa página é responsável por fornecer os indicadores necessários para o acompanhamento diário das entregas.
 Ela inclui informações sobre todas as bases, seus respectivos motoristas e a quantidade de pacotes que cada motorista possui para entregar naquele dia.
