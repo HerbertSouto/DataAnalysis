@@ -26,6 +26,7 @@ Nessa seção, é possível consultar a base de dados e realizar o download para
 
 --DADOS E TABELAS--
 
-Os dados são consumidos a partir de planilhas em Excel.
+Os dados são fictícios e consumidos a partir de planilhas em Excel.
+Além disso, há um script para criar as tabelas dentro do SQL Server junto aos arquivos para carregar os dados.
 
 Se precisar de mais informações ou tiver outras dúvidas, estou à disposição! 😊🚚
